@@ -94,14 +94,14 @@
   </tile>
  </tileset>
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
- <layer id="1" name="Platforms" width="25" height="20">
+ <layer id="1" name="Platforms" width="25" height="20" offsetx="-1" offsety="-1">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFowA74AFiZiDmp7KZvGjmwzCp9jCh6ScFs1DiiVEwCkbBKBiEAADlKgCM
+   eJxjYBgFo2AUjIJRMAqGLuABYmYg5qeymbxo5sMwOfYwoZlBLGYhwQ4AWnQAiQ==
   </data>
  </layer>
  <layer id="2" name="Coins" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFQxVIDbQDiATY3InP7UPFX6NgFIyCUTCYAABF9gBp
+   eJxjYBgFo2AUjIJRMApoB0QH2gFEAFLdOBj9BABBkABA
   </data>
  </layer>
 </map>
